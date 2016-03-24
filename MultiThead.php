@@ -3,7 +3,7 @@
  * php curl模拟线程
  */
 class MutliThead{
-	public static $maxTheadLimit		= 2;					#最大线程数
+	public static $maxTheadLimit		= 22;					#最大线程数
 	public static $timeout				= 100;					#超时连接时间
 	public static $callBackFunc			= '';					#回调函数
 	public static $method				= 'GET';				#请求方式
