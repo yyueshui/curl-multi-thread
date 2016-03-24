@@ -1,0 +1,16 @@
+\#*
+.*
+!.gitignore
+*.swp
+*~
+*.swo
+$.swn
+config/config.php
+config/certi.php
+config/developer.zl
+data/kvstore
+data/cache
+data/logs
+public/images
+/nbproject/private/
+/nbproject
