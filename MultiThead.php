@@ -21,6 +21,8 @@ class MutliThead{
         CURLOPT_TIMEOUT 		=> 30,
 		CURLOPT_ENCODING		=> 'gzip',
     );
+
+
 	
 	private $callback 					= array('MutliThead','callback');
 
